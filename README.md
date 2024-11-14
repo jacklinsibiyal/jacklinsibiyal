@@ -1,36 +1,66 @@
 # Hi there 👋 I'm Jacklin
 
-😜 I'm a B-TECH IT third-year student with a passion for prompt engineering, data science, artificial intelligence, and machine learning.
+😜 I'm a **B-TECH IT** third-year student with a passion for **Prompt Engineering**, **Data Science**, **Artificial Intelligence**, and **Machine Learning**.
 
-🔭 I’m currently working on some cool data science projects.
+🔭 I’m currently working on some cool **data science projects**, including sentiment analysis, stock price prediction, heart disease prediction, and more!
 
-🌱 I’m currently learning data science, machine learning, prompt engineering.
+🌱 I’m learning and exploring **data science**, **machine learning**, **cloud computing**, and **AI**, while focusing on **improving my coding and DSA skills**.
 
-🤔 I’m looking for help with data science.
+💬 **Ask me about**:
+  - **Prompt engineering** 
+  - **Machine learning** 
+  - **Data science projects**
 
-💬 Ask me about prompt engineering.
+📫 **How to reach me**:
+  - **[LinkedIn](https://www.linkedin.com/in/jacklinsibiyal/)**
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacklinsibiyal/)
+😄 **Pronouns**: she/her
 
-😄 Pronouns: she/her
+---
 
-## 🚀My Projects
+## 🚀 My Projects
 
-### Resume Screening
-Developed a resume screening system using LSTM neural networks, Python, NLTK, and TensorFlow to analyze and categorize resumes.
+### 1. **Resume Screening**
+Developed a **resume screening system** using **LSTM neural networks**, **Python**, **NLTK**, and **TensorFlow** to automatically analyze, classify, and rank resumes.
 
-### Credit Card Fraud Detection
-Developed a machine learning model to detect fraudulent credit card transactions using Python, Scikit-learn, and Pandas.
+### 2. **Google Stock Price Prediction**
+Built a **stock price prediction model** using **Linear Regression** to predict Google's stock price based on historical data. [Live Demo Link](https://google-stock-prediction.onrender.com/)
 
-### Customer Churn Prediction
-Implemented predictive models to identify customers likely to churn, utilizing Python, Scikit-learn, and Pandas.
+### 3. **Heart Failure Prediction**
+Created a **heart disease prediction model** using **Random Forest** to predict the likelihood of heart failure with an accuracy of 90%. [Live Demo Link](https://heart-failure-prediction-vzj3.onrender.com/)
 
-### Spam Classifier
-Built an email spam classifier with Python, NLTK, and Scikit-learn to achieve high accuracy in identifying spam emails.
+### 4. **SVM Sentiment Analysis**
+Implemented a **sentiment analysis model** using **Support Vector Machine (SVM)** to classify text data. [Live Demo Link](https://svm-sentiment-analysis.onrender.com/)
 
-### Market Basket Insights
-Conducted market basket analysis to uncover patterns and associations between products, using Python, Pandas, and Apriori algorithm.
+### 5. **YouTube Video Summarizer Telegram Bot**
+Developed a **Telegram bot** that summarizes **YouTube videos** using natural language processing.
 
-## 🛠️ Skills
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks and Libraries**: TensorFlow, Scikit-learn, Pandas, NLTK
+### 6. **Customer Churn Prediction**
+Built a **predictive model** to identify customers likely to churn using **Scikit-learn**, **Pandas**, and **Python**.
+
+### 7. **Credit Card Fraud Detection**
+Developed a **fraud detection system** to identify fraudulent credit card transactions using **machine learning** and **Scikit-learn**.
+
+### 8. **Market Basket Insights**
+Conducted **market basket analysis** to identify patterns and associations between products using **Apriori Algorithm** and **Python**.
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages**: **Python**, **JavaScript**, **SQL**
+- **Machine Learning**: **Scikit-learn**, **TensorFlow**, **Pandas**, **NLTK**
+- **Frameworks & Libraries**: **Keras**, **Flask**, **Streamlit**
+- **Cloud & AI Tools**: **AWS**, **Google Cloud**, **Azure**
+- **Other Skills**: **Data Analysis**, **ETL**, **SQL**, **Power BI**
+
+---
+
+## 🔍 Currently Learning
+- **Data Science & Machine Learning**
+- **Cloud Computing (AWS, Google Cloud)**
+- **Prompt Engineering**
+- **Advanced DSA**
+
+---
+
+I’m always up for **collaboration** or discussing **cool tech** projects. Feel free to reach out or check out my repositories for more!
