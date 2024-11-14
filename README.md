@@ -1,66 +1,79 @@
 # Hi there 👋 I'm Jacklin
 
-😜 I'm a **B-TECH IT** third-year student with a passion for **Prompt Engineering**, **Data Science**, **Artificial Intelligence**, and **Machine Learning**.
+😜 I'm a **B-TECH IT** third-year student with a passion for **Prompt Engineering**, **Data Science**, **AI**, and **Machine Learning**.
 
-🔭 I’m currently working on some cool **data science projects**, including sentiment analysis, stock price prediction, heart disease prediction, and more!
+🔭 Currently working on exciting **data science projects**, including sentiment analysis, stock price prediction, heart disease prediction, and more.
 
-🌱 I’m learning and exploring **data science**, **machine learning**, **cloud computing**, and **AI**, while focusing on **improving my coding and DSA skills**.
+🌱 **Currently learning**: Data science, machine learning, cloud computing, AI, and enhancing my DSA skills.
 
 💬 **Ask me about**:
-  - **Prompt engineering** 
-  - **Machine learning** 
-  - **Data science projects**
+- **Prompt Engineering**
+- **Machine learning**
+- **Data science projects**
 
-📫 **How to reach me**:
-  - **[LinkedIn](https://www.linkedin.com/in/jacklinsibiyal/)**
+📫 **Reach out**: [LinkedIn](https://www.linkedin.com/in/jacklinsibiyal/)
 
-😄 **Pronouns**: she/her
+### 🧑‍🎓 A little about me
+I’m deeply passionate about **Machine Learning** and **AI**. I love solving real-world problems with data and algorithms. Currently, I’m exploring **natural language processing (NLP)** and **time-series forecasting** to work on impactful projects.
 
----
+In my free time, I’m learning more about **cloud computing**, contributing to **open-source**, and taking part in **hackathons**. When I’m not coding, you’ll find me either learning about new technologies or building cool side projects.
 
 ## 🚀 My Projects
 
-### 1. **Resume Screening**
-Developed a **resume screening system** using **LSTM neural networks**, **Python**, **NLTK**, and **TensorFlow** to automatically analyze, classify, and rank resumes.
+### 1. **[Food Ordering App](https://github.com/jacklinsibiyal/food-ordering-app)**
+Built a dynamic food ordering application using **JavaScript**, allowing users to place orders and interact with a modern web UI.
 
-### 2. **Google Stock Price Prediction**
-Built a **stock price prediction model** using **Linear Regression** to predict Google's stock price based on historical data. [Live Demo Link](https://google-stock-prediction.onrender.com/)
+### 2. **[Stock Prediction](https://github.com/jacklinsibiyal/Stock_Prediction)**
+Developed a stock prediction model using **Jupyter Notebook** and time-series analysis techniques to forecast stock prices.
 
-### 3. **Heart Failure Prediction**
-Created a **heart disease prediction model** using **Random Forest** to predict the likelihood of heart failure with an accuracy of 90%. [Live Demo Link](https://heart-failure-prediction-vzj3.onrender.com/)
+### 3. **[Resume Screening](https://github.com/jacklinsibiyal/ResumeScreening)**
+Developed a resume screening system using LSTM neural networks, Python, NLTK, and TensorFlow to analyze and categorize resumes.
 
-### 4. **SVM Sentiment Analysis**
-Implemented a **sentiment analysis model** using **Support Vector Machine (SVM)** to classify text data. [Live Demo Link](https://svm-sentiment-analysis.onrender.com/)
+### 4. **[Credit Card Fraud Detection](https://github.com/jacklinsibiyal/credit-card-fraud-detection)**
+Developed a machine learning model to detect fraudulent credit card transactions using Python, Scikit-learn, and Pandas.
 
-### 5. **YouTube Video Summarizer Telegram Bot**
-Developed a **Telegram bot** that summarizes **YouTube videos** using natural language processing.
+### 5. **[Customer Churn Prediction](https://github.com/jacklinsibiyal/customer-churn-prediction)**
+Implemented predictive models to identify customers likely to churn, utilizing Python, Scikit-learn, and Pandas.
 
-### 6. **Customer Churn Prediction**
-Built a **predictive model** to identify customers likely to churn using **Scikit-learn**, **Pandas**, and **Python**.
+### 6. **[Spam Classifier](https://github.com/jacklinsibiyal/spam-classifier)**
+Built an email spam classifier with Python, NLTK, and Scikit-learn to achieve high accuracy in identifying spam emails.
 
-### 7. **Credit Card Fraud Detection**
-Developed a **fraud detection system** to identify fraudulent credit card transactions using **machine learning** and **Scikit-learn**.
+### 7. **[Market Basket Insights](https://github.com/jacklinsibiyal/Market-Basket-Insights)**
+Conducted market basket analysis to uncover patterns and associations between products, using Python, Pandas, and the Apriori algorithm.
 
-### 8. **Market Basket Insights**
-Conducted **market basket analysis** to identify patterns and associations between products using **Apriori Algorithm** and **Python**.
+### 8. **[Heart Failure Prediction](https://github.com/jacklinsibiyal/heart_failure_prediction)**
+Built a predictive model to forecast heart failure using Random Forest with a **90% accuracy**.
 
----
+### 9. **[YouTube Bot](https://github.com/jacklinsibiyal/youtube_bot)**
+Created a **Telegram bot** to summarize YouTube videos using Natural Language Processing (NLP) techniques.
+
+### 10. **[100 Days of ML Code](https://github.com/jacklinsibiyal/100-Days-Of-ML-Code)**
+A journey to master machine learning through **100 challenges** in 100 days, focusing on Python, ML algorithms, and data science fundamentals.
 
 ## 🛠️ Skills & Tools
-- **Languages**: **Python**, **JavaScript**, **SQL**
-- **Machine Learning**: **Scikit-learn**, **TensorFlow**, **Pandas**, **NLTK**
-- **Frameworks & Libraries**: **Keras**, **Flask**, **Streamlit**
-- **Cloud & AI Tools**: **AWS**, **Google Cloud**, **Azure**
-- **Other Skills**: **Data Analysis**, **ETL**, **SQL**, **Power BI**
+- **Languages**: Python, JavaScript, SQL
+- **Frameworks and Libraries**: TensorFlow, Scikit-learn, Pandas, NLTK
+- **Cloud**: AWS, Google Cloud
+- **Tools**: Git, Docker, Jupyter Notebook, VS Code
 
----
+## 🏆 Achievements:
+- Completed **AWS Cloud Practitioner Essentials** certification.
+- Top 10% in **Kaggle Titanic** competition.
 
-## 🔍 Currently Learning
-- **Data Science & Machine Learning**
-- **Cloud Computing (AWS, Google Cloud)**
-- **Prompt Engineering**
-- **Advanced DSA**
+## 📅 GitHub Activity
 
----
+![Jacklin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacklinsibiyal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-I’m always up for **collaboration** or discussing **cool tech** projects. Feel free to reach out or check out my repositories for more!
+## 🔝 Top Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacklinsibiyal&langs_count=6&theme=radical)
+
+## 🧑‍🎓 Currently Learning:
+- **Deep Learning**
+- **Cloud Computing** (AWS, Google Cloud)
+
+## 🤝 Open Source Contributions
+- Contributed to [GSSoC EXT 24](https://github.com/gsoc) (Summer of Code extension)
+- Maintained several small libraries and projects on [GitHub](https://github.com/jacklinsibiyal).
+
+## 💬 "The best way to predict the future is to create it." – **Abraham Lincoln**
