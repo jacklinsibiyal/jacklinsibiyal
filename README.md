@@ -21,7 +21,7 @@ In my free time, I’m learning more about **cloud computing**, contributing to 
 ## 🚀 My Projects
 
 ### 1. **[Stock Prediction](https://github.com/jacklinsibiyal/Stock_Prediction)**
-Developed a stock prediction model using **Jupyter Notebook** and time-series analysis techniques to forecast stock prices.
+Developed a stock prediction model using **Linear Regression** and time-series analysis techniques to forecast stock prices.
 
 ### 2. **[Resume Screening](https://github.com/jacklinsibiyal/ResumeScreening)**
 Developed a resume screening system using LSTM neural networks, Python, NLTK, and TensorFlow to analyze and categorize resumes.
