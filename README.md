@@ -20,35 +20,29 @@ In my free time, I’m learning more about **cloud computing**, contributing to 
 
 ## 🚀 My Projects
 
-### 1. **[Food Ordering App](https://github.com/jacklinsibiyal/food-ordering-app)**
-Built a dynamic food ordering application using **JavaScript**, allowing users to place orders and interact with a modern web UI.
-
-### 2. **[Stock Prediction](https://github.com/jacklinsibiyal/Stock_Prediction)**
+### 1. **[Stock Prediction](https://github.com/jacklinsibiyal/Stock_Prediction)**
 Developed a stock prediction model using **Jupyter Notebook** and time-series analysis techniques to forecast stock prices.
 
-### 3. **[Resume Screening](https://github.com/jacklinsibiyal/ResumeScreening)**
+### 2. **[Resume Screening](https://github.com/jacklinsibiyal/ResumeScreening)**
 Developed a resume screening system using LSTM neural networks, Python, NLTK, and TensorFlow to analyze and categorize resumes.
 
-### 4. **[Credit Card Fraud Detection](https://github.com/jacklinsibiyal/credit-card-fraud-detection)**
+### 3. **[Credit Card Fraud Detection](https://github.com/jacklinsibiyal/credit-card-fraud-detection)**
 Developed a machine learning model to detect fraudulent credit card transactions using Python, Scikit-learn, and Pandas.
 
-### 5. **[Customer Churn Prediction](https://github.com/jacklinsibiyal/customer-churn-prediction)**
+### 4. **[Customer Churn Prediction](https://github.com/jacklinsibiyal/customer-churn-prediction)**
 Implemented predictive models to identify customers likely to churn, utilizing Python, Scikit-learn, and Pandas.
 
-### 6. **[Spam Classifier](https://github.com/jacklinsibiyal/spam-classifier)**
+### 5. **[Spam Classifier](https://github.com/jacklinsibiyal/spam-classifier)**
 Built an email spam classifier with Python, NLTK, and Scikit-learn to achieve high accuracy in identifying spam emails.
 
-### 7. **[Market Basket Insights](https://github.com/jacklinsibiyal/Market-Basket-Insights)**
+### 6. **[Market Basket Insights](https://github.com/jacklinsibiyal/Market-Basket-Insights)**
 Conducted market basket analysis to uncover patterns and associations between products, using Python, Pandas, and the Apriori algorithm.
 
-### 8. **[Heart Failure Prediction](https://github.com/jacklinsibiyal/heart_failure_prediction)**
+### 7. **[Heart Failure Prediction](https://github.com/jacklinsibiyal/heart_failure_prediction)**
 Built a predictive model to forecast heart failure using Random Forest with a **90% accuracy**.
 
-### 9. **[YouTube Bot](https://github.com/jacklinsibiyal/youtube_bot)**
+### 8. **[YouTube Bot](https://github.com/jacklinsibiyal/youtube_bot)**
 Created a **Telegram bot** to summarize YouTube videos using Natural Language Processing (NLP) techniques.
-
-### 10. **[100 Days of ML Code](https://github.com/jacklinsibiyal/100-Days-Of-ML-Code)**
-A journey to master machine learning through **100 challenges** in 100 days, focusing on Python, ML algorithms, and data science fundamentals.
 
 ## 🛠️ Skills & Tools
 - **Languages**: Python, JavaScript, SQL
