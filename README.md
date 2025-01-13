@@ -26,13 +26,13 @@ Developed a stock prediction model using Linear Regression and time-series analy
 ### 2. **[Resume Screening](https://github.com/jacklinsibiyal/ResumeScreening)**
 Developed a resume screening system using LSTM neural networks, Python, NLTK, and TensorFlow to analyze and categorize resumes.
 
-### 3. **[Credit Card Fraud Detection](https://github.com/jacklinsibiyal/credit-card-fraud-detection)**
+### 3. **[Credit Card Fraud Detection]([https://github.com/jacklinsibiyal/credit-card-fraud-detection](https://github.com/jacklinsibiyal/My-Projects/blob/main/Credit_Card_Fraud_Detection.ipynb))**
 Developed a machine learning model to detect fraudulent credit card transactions using Python, Scikit-learn, and Pandas.
 
-### 4. **[Customer Churn Prediction](https://github.com/jacklinsibiyal/customer-churn-prediction)**
+### 4. **[Customer Churn Prediction]([https://github.com/jacklinsibiyal/customer-churn-prediction](https://github.com/jacklinsibiyal/My-Projects/blob/main/Customer_Churn_Prediction.ipynb))**
 Implemented predictive models to identify customers likely to churn, utilizing Python, Scikit-learn, and Pandas.
 
-### 5. **[Spam Classifier](https://github.com/jacklinsibiyal/spam-classifier)**
+### 5. **[Spam Classifier]([https://github.com/jacklinsibiyal/spam-classifier](https://github.com/jacklinsibiyal/My-Projects/blob/main/spam-classifier.ipynb))**
 Built an email spam classifier with Python, NLTK, and Scikit-learn to achieve high accuracy in identifying spam emails.
 
 ### 6. **[Market Basket Insights](https://github.com/jacklinsibiyal/Market-Basket-Insights)**
