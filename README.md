@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jacklin
 
-😜 I'm a **B-TECH IT** third-year student with a passion for **Prompt Engineering**, **Data Science**, **AI**, and **Machine Learning**.
+😜 I'm a **B-TECH IT** final-year student with a passion for **Prompt Engineering**, **Data Science**, **AI**, and **Machine Learning**.
 
 🔭 Currently working on exciting **data science projects**, including sentiment analysis, stock price prediction, heart disease prediction, and more.
 
@@ -49,10 +49,6 @@ Created a **Telegram bot** to summarize YouTube videos using Natural Language Pr
 - **Frameworks and Libraries**: TensorFlow, Scikit-learn, Pandas, NLTK
 - **Cloud**: AWS, Google Cloud
 - **Tools**: Git, Docker, Jupyter Notebook, VS Code
-
-## 🏆 Achievements:
-- Completed **AWS Cloud Practitioner Essentials** certification.
-- Top 10% in **Kaggle Titanic** competition.
 
 ## 📅 GitHub Activity
 
